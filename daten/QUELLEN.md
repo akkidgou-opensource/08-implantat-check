@@ -5,6 +5,7 @@
 |---|---|---|
 | `siebliste_soll.csv` | Soll-Bestückung eines Kleinfragment-Siebs mit 20 Positionen | Frei erfunden für den Hackathon, kein Bezug zu einem Hersteller. Frei verwendbar. |
 | `testfall_01_verbrauch.md` | Verbrauch einer OP als Liste und als Freitext, dazu die erwartete Bestellliste | Frei erfunden für den Hackathon. Frei verwendbar. |
+| `instrumentenbilder/` | 36 Fotos von 18 chirurgischen Instrumenten (je 2), dazu `klassen.csv` mit der Bezeichnung je Bild | Auswahl aus [HOSPI-Tools, Zenodo 10.5281/zenodo.6796559](https://doi.org/10.5281/zenodo.6796559), CC BY 4.0 |
 
 Die CSV-Datei verwendet das Semikolon als Trennzeichen, damit sie sich in Excel direkt öffnen lässt.
 
