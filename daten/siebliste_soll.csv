@@ -1,0 +1,20 @@
+artikelnummer;bezeichnung;groesse;soll_menge
+DEMO-PL-01;Radiusplatte palmar winkelstabil links schmal;3-Loch;1
+DEMO-PL-02;Radiusplatte palmar winkelstabil rechts schmal;3-Loch;1
+DEMO-PL-03;Radiusplatte palmar winkelstabil links breit;4-Loch;1
+DEMO-PL-04;Radiusplatte palmar winkelstabil rechts breit;4-Loch;1
+DEMO-WS-10;Winkelstabile Schraube 2,4 mm;10 mm;4
+DEMO-WS-12;Winkelstabile Schraube 2,4 mm;12 mm;4
+DEMO-WS-14;Winkelstabile Schraube 2,4 mm;14 mm;4
+DEMO-WS-16;Winkelstabile Schraube 2,4 mm;16 mm;4
+DEMO-WS-18;Winkelstabile Schraube 2,4 mm;18 mm;4
+DEMO-WS-20;Winkelstabile Schraube 2,4 mm;20 mm;4
+DEMO-WS-22;Winkelstabile Schraube 2,4 mm;22 mm;4
+DEMO-WS-24;Winkelstabile Schraube 2,4 mm;24 mm;4
+DEMO-KS-12;Kortikalisschraube 2,4 mm;12 mm;3
+DEMO-KS-14;Kortikalisschraube 2,4 mm;14 mm;3
+DEMO-KS-16;Kortikalisschraube 2,4 mm;16 mm;3
+DEMO-KS-18;Kortikalisschraube 2,4 mm;18 mm;3
+DEMO-KS-20;Kortikalisschraube 2,4 mm;20 mm;3
+DEMO-KD-12;Kirschner-Draht;1,2 mm;6
+DEMO-BO-18;Spiralbohrer;1,8 mm;2
