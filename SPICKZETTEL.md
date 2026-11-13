@@ -50,7 +50,7 @@ Ergänze ein Textfeld „Verbrauch als Freitext“ (z. B. aus dem OP-Bericht). E
 **Fertig, wenn:** der Freitext aus Testfall 01 dieselbe Bestellliste ergibt wie die Eingabe von Hand.
 
 ## Block 6 · KI liest den Verbrauch vom Foto
-Testbild selbst herstellen: Siebliste oder Schraubenrack als Tabelle ausdrucken, verbrauchte Positionen von Hand durchstreichen, fotografieren. Offene Bilddatensätze stehen in `daten/QUELLEN.md`.
+Zwei Wege zu Testbildern: Fotos echter Schraubenracks liegen in `daten/hospi_orthopaedie/` (Ordner, deren Name auf `Set` endet). Oder selbst herstellen: Siebliste als Tabelle ausdrucken, verbrauchte Positionen von Hand durchstreichen, fotografieren.
 ```
 Ergänze den Button „Sieb fotografieren / Bild wählen“. Das Bild wird im Browser verkleinert und an /api/verbrauch-foto geschickt. Die KI gibt im selben JSON-Format zurück, welche Positionen fehlen oder durchgestrichen sind, und nennt, was sie nicht erkennen konnte. Das Ergebnis wird vor dem Abgleich zur Bestätigung angezeigt und lässt sich korrigieren. Das Bild wird nicht gespeichert.
 ```

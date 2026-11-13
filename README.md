@@ -31,7 +31,8 @@ Der Abgleich von Hand zwischen Sieb, OP-Bericht und Nachbestellung ist fehleranf
 | `daten/QUELLEN.md` | Offene Bilddatensätze und Hinweise zu den Testdaten |
 | `daten/siebliste_soll.csv` | Frei erfundene Soll-Bestückung eines Siebs |
 | `daten/testfall_01_verbrauch.md` | Frei erfundener OP-Verbrauch mit erwarteter Bestellliste |
-| `daten/instrumentenbilder/` | 36 Fotos von 18 chirurgischen Instrumenten mit `klassen.csv` |
+| `daten/hospi_orthopaedie/` | Rund 860 Fotos echter Siebe, Schraubenracks, Platten und Instrumente aus acht orthopädischen Systemen |
+| `daten/instrumentenbilder/` | 36 Fotos von 18 allgemeinchirurgischen Instrumenten mit `klassen.csv` |
 
 ## Stolpersteine
 - Beim Foto-Ansatz die Bildqualität beachten: Schrauben im Rack sehen sich sehr ähnlich
